@@ -25,7 +25,6 @@ Universidad en Santa María Atarasquillo**
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=CrisSFV&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=CrisSFV&theme=react-dark"/>
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Para Más Información, Visítame o Conéctate Conmigo
